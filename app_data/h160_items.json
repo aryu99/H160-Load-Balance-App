@@ -1,0 +1,200 @@
+[
+  {
+    "excel_row": 21,
+    "item": "Empty Weight",
+    "weight": 3977.48,
+    "arm_long": 5.42,
+    "moment_long": 21557.9416,
+    "arm_lat": 0.01,
+    "moment_lat": 39.7748
+  },
+  {
+    "excel_row": 22,
+    "item": "Pilot",
+    "weight": 85,
+    "arm_long": 2.819,
+    "moment_long": 239.615,
+    "arm_lat": 0.56,
+    "moment_lat": 47.6
+  },
+  {
+    "excel_row": 23,
+    "item": "Co-Pilot",
+    "weight": 80,
+    "arm_long": 2.819,
+    "moment_long": 225.51999999999998,
+    "arm_lat": -0.56,
+    "moment_lat": -44.800000000000004
+  },
+  {
+    "excel_row": 24,
+    "item": "FWD Row Pax 1",
+    "weight": 45,
+    "arm_long": 3.92,
+    "moment_long": 176.4,
+    "arm_lat": 0.63,
+    "moment_lat": 28.35
+  },
+  {
+    "excel_row": 25,
+    "item": "FWD Row Pax 2",
+    "weight": 45,
+    "arm_long": 3.92,
+    "moment_long": 176.4,
+    "arm_lat": 0.21,
+    "moment_lat": 9.45
+  },
+  {
+    "excel_row": 26,
+    "item": "FWD Row Pax 3",
+    "weight": 45,
+    "arm_long": 3.92,
+    "moment_long": 176.4,
+    "arm_lat": -0.21,
+    "moment_lat": -9.45
+  },
+  {
+    "excel_row": 27,
+    "item": "FWD Row Pax 4",
+    "weight": 56,
+    "arm_long": 3.92,
+    "moment_long": 219.51999999999998,
+    "arm_lat": -0.63,
+    "moment_lat": -35.28
+  },
+  {
+    "excel_row": 28,
+    "item": "AFT RH Pax 5",
+    "weight": 0,
+    "arm_long": 5.46,
+    "moment_long": 0,
+    "arm_lat": 0.44,
+    "moment_lat": 0
+  },
+  {
+    "excel_row": 29,
+    "item": "AFT LH Pax 6",
+    "weight": 0,
+    "arm_long": 5.46,
+    "moment_long": 0,
+    "arm_lat": -0.44,
+    "moment_lat": 0
+  },
+  {
+    "excel_row": 30,
+    "item": "Cargo 1 (Max 50)",
+    "weight": 30,
+    "arm_long": 6.5,
+    "moment_long": 195,
+    "arm_lat": 0,
+    "moment_lat": 0
+  },
+  {
+    "excel_row": 31,
+    "item": "Cargo 2 (Max 300)",
+    "weight": 23,
+    "arm_long": 7.6,
+    "moment_long": 174.79999999999998,
+    "arm_lat": 0,
+    "moment_lat": 0
+  },
+  {
+    "excel_row": 32,
+    "item": "Cargo 3 (Max 30)",
+    "weight": 21,
+    "arm_long": 8.5,
+    "moment_long": 178.5,
+    "arm_lat": 0,
+    "moment_lat": 0
+  },
+  {
+    "excel_row": 33,
+    "item": "Total Load",
+    "weight": 430,
+    "arm_long": NaN,
+    "moment_long": NaN,
+    "arm_lat": NaN,
+    "moment_lat": NaN
+  },
+  {
+    "excel_row": 34,
+    "item": "Fuel 0 kg",
+    "weight": 0,
+    "arm_long": 5.07,
+    "moment_long": 0,
+    "arm_lat": 0,
+    "moment_lat": 0
+  },
+  {
+    "excel_row": 35,
+    "item": "Zero Fuel Mass",
+    "weight": 4407.48,
+    "arm_long": NaN,
+    "moment_long": 23320.096600000004,
+    "arm_lat": NaN,
+    "moment_lat": 35.64479999999999
+  },
+  {
+    "excel_row": 36,
+    "item": "CG",
+    "weight": NaN,
+    "arm_long": "LONG",
+    "moment_long": 5.291027208291361,
+    "arm_lat": "LAT",
+    "moment_lat": 0.008087342426965067
+  },
+  {
+    "excel_row": 37,
+    "item": "Fuel 650 kg",
+    "weight": 650,
+    "arm_long": 4.62,
+    "moment_long": 3003,
+    "arm_lat": NaN,
+    "moment_lat": 0
+  },
+  {
+    "excel_row": 38,
+    "item": "650 kg Mass C+E",
+    "weight": 5057.48,
+    "arm_long": NaN,
+    "moment_long": 26323.096600000004,
+    "arm_lat": NaN,
+    "moment_lat": 35.64479999999999
+  },
+  {
+    "excel_row": 39,
+    "item": "CG",
+    "weight": NaN,
+    "arm_long": "LONG",
+    "moment_long": 5.204785110371175,
+    "arm_lat": NaN,
+    "moment_lat": 0.0070479369171998684
+  },
+  {
+    "excel_row": 40,
+    "item": "Fuel at T/O",
+    "weight": 890,
+    "arm_long": 5.0713,
+    "moment_long": 4513.457,
+    "arm_lat": NaN,
+    "moment_lat": 0
+  },
+  {
+    "excel_row": 41,
+    "item": "Take Off Mass B+D",
+    "weight": 5297.48,
+    "arm_long": NaN,
+    "moment_long": 27833.553600000007,
+    "arm_lat": NaN,
+    "moment_lat": 35.64479999999999
+  },
+  {
+    "excel_row": 42,
+    "item": "CG",
+    "weight": NaN,
+    "arm_long": "LONG",
+    "moment_long": 5.254112068379684,
+    "arm_lat": "LAT",
+    "moment_lat": 0.006728633236935296
+  }
+]
